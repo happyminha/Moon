@@ -10,7 +10,7 @@
   * 또한 select -> from -> where-> Group by ->having -> order by 순 임을 기억하자!
     비록 전에 sqld 자격증 시험은 떨어졌지만..정보처리기사도 그렇고 공부해놓은 베이스가
     있어서 정신줄 놓지 않고 따라갈 수 있는 것 같다 ㅠㅠ
-- BETWEEN은  영단어에서도 Between A and B 숙어처럼 SQL 에서도 BETWEEN ~AND~가 사용된다.
+- BETWEEN은  영단어에서도 Between A and B 숙어처럼 SQL 에서도 BETWEEN AND가 사용된다.
   그리고 반대의 의미를 나타낼 때는 NOT BETWEEN을 입력하면 된다.
 - NULL의 경우 회사생활에서 자주 보인 친숙한 언어인데, 데이터가 정의되는 않은 상태로
   존재하며, 값이 있는 숫자와 NULL을 계산해도 NULL이다.
